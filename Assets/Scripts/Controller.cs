@@ -20,6 +20,7 @@ public class Controller : MonoBehaviour
     private int clickedTile = -1;
     private int clickedCop = 0;
                     
+
     void Start()
     {        
         InitTiles();
